@@ -1,0 +1,11 @@
+PKG lwt
+PKG irmin
+PKG mirage
+PKG irmin-mirage
+PKG mirage-http
+PKG mirage-console
+PKG ptime
+PKG logs
+
+S .
+B _build

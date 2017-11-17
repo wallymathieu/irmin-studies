@@ -18,3 +18,10 @@ _build/
 # oasis generated files
 setup.data
 setup.log
+
+key_gen.ml
+main.ml
+static1.ml
+static1.mli
+Makefile
+

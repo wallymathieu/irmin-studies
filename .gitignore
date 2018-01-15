@@ -7,6 +7,7 @@
 *.cmx
 *.cmxs
 *.cmxa
+*.opam
 
 # ocamlbuild working directory
 _build/
@@ -25,3 +26,9 @@ static1.ml
 static1.mli
 Makefile
 
+
+backend.ml
+main.ml
+myocamlbuild.ml
+.mirage.configure
+**/.mirage.config
